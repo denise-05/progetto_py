@@ -1,0 +1,1 @@
+Inizializzo il progetto.
